@@ -14,8 +14,8 @@ go rune  http://www.golangtc.com/t/528cc004320b52227200000f
 
 ioutil.readFile可以直接读取文件
 
-
-
+waitgourp
+http://ifeve.com/go-concurrent-waitgroup/
 
 lab1
 http://www.jianshu.com/p/bfb4aee7a827
@@ -23,3 +23,6 @@ http://www.jianshu.com/p/bfb4aee7a827
 http://blog.csdn.net/bysui/article/details/52128221
 
 
+defer:http://blog.csdn.net/eclipser1987/article/details/12089271
+
+http://studygolang.com/articles/7548
