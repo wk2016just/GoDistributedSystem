@@ -3,7 +3,6 @@ master节点认为每个输入文件对应1个map任务(这个任务至少调用
 sort，这里的sort指的是将相同的key／value对存入一个数组中，结果像这样{"he", "1", "1", "1"...}....（从doReduce函数的描述和mapF的参数得到的）
 
 zhihu sort  https://www.zhihu.com/question/35999547/answer/65443663
-引用 https://my.oschina.net/chai2010/blog/161384
 文件  http://www.jb51.net/article/58142.htm
 fatal http://www.bubuko.com/infodetail-166782.html
 defer http://blog.csdn.net/eclipser1987/article/details/12089271
