@@ -8,9 +8,6 @@ fatal http://www.bubuko.com/infodetail-166782.html
 
 file stat http://www.widuu.com/archives/01/921.html
 
-go rune  http://www.golangtc.com/t/528cc004320b52227200000f
-
-
 ioutil.readFile可以直接读取文件
 
 waitgourp
@@ -22,6 +19,4 @@ http://www.jianshu.com/p/bfb4aee7a827
 http://blog.csdn.net/bysui/article/details/52128221
 
 
-defer:http://blog.csdn.net/eclipser1987/article/details/12089271
 
-http://studygolang.com/articles/7548
